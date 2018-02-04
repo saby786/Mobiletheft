@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Orange">#FF4000</color>
+    <color name="RottenGreen">#065608</color>
+    <color name="SmugeBlue">#074068</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="active">Active</string>
+    <string name="app_name">Mobile Theft Security</string>
+    <string name="appendedtext">This text will be appended by your current location and time.</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="custommessage">Enter your message</string>
+    <string name="data1">Friend/Relative</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_menu">Mobile Theft Main Menu</string>
+    <string name="my_account">My Account</string>
+    <string name="new_password">New password</string>
+    <string name="old_password">Old Password</string>
+    <string name="panic_mail">E-Mail ID</string>
+    <string name="panic_number">Phone Number</string>
+    <string name="panic_text">In case of any unusual activity, your device will automatically send your custom text along with your location and time details as messages and mails to any of your friends. Please enter Numbers and EMails to whom you want the data to be send.</string>
+    <string name="password_change">Change Password</string>
+    <string name="password_change_menu">Mobile Theft Password Change Menu</string>
+    <string name="password_menu">Mobile Theft Password Menu</string>
+    <string name="passwordreset">Please enter your old password and then new password.</string>
+    <string name="save_details">Save Details</string>
+    <string name="save_password">Save Password</string>
+    <string name="set_password">To keep your Mobile Theft, you need to set a password for future access to this App. Please set a new password which will be used in future.</string>
+    <string name="settings">Settings</string>
+    <string name="settings_menu">Mobile Theft Settings Menu</string>
+    <string name="text_append">Your Location and Current Time will be send along with the text you enter here.</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

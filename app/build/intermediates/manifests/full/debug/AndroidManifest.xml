@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mobiletheftsecurity"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.mobiletheftsecurity.Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.mobiletheftsecurity.Home" />
+        <activity android:name="com.example.mobiletheftsecurity.MyAccount" />
+        <activity android:name="com.example.mobiletheftsecurity.ChangePassword" />
+        <activity android:name="com.example.mobiletheftsecurity.Settings" />
+        <activity android:name="com.example.mobiletheftsecurity.CreateAccount" />
+        <activity android:name="com.example.mobiletheftsecurity.Login" />
+
+        <receiver android:name="com.example.mobiletheftsecurity.TheftReceiver" >
+            <intent-filter>
+                <action android:name="prabha" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

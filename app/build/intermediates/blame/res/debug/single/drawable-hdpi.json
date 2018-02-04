@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\MobileTheftSecurity1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socialperson.png",
+        "source": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\drawable-hdpi\\socialperson.png"
+    },
+    {
+        "merged": "D:\\MobileTheftSecurity1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\MobileTheftSecurity1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

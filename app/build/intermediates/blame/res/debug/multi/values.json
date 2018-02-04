@@ -1,0 +1,619 @@
+[
+    {
+        "outputFile": "D:\\MobileTheftSecurity1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1963,
+                        "endColumn": 37,
+                        "endOffset": 1999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 45,
+                    "endOffset": 137
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2004,
+                        "endColumn": 45,
+                        "endOffset": 2045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 142,
+                    "endColumn": 43,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1922,
+                        "endColumn": 40,
+                        "endOffset": 1961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 57,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 55,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 52,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 52,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endColumn": 41,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1509,
+                        "endColumn": 38,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 58,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 58,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 102,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 1218,
+                        "endColumn": 99,
+                        "endOffset": 1316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 61,
+                    "endOffset": 614
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 456,
+                        "endColumn": 58,
+                        "endOffset": 513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 619,
+                    "endColumn": 60,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 1160,
+                        "endColumn": 57,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 49,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 1113,
+                        "endColumn": 46,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 52,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 52,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endColumn": 60,
+                    "endOffset": 839
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1648,
+                        "endColumn": 57,
+                        "endOffset": 1704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 844,
+                    "endColumn": 49,
+                    "endOffset": 889
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 1462,
+                        "endColumn": 46,
+                        "endOffset": 1507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 894,
+                    "endColumn": 53,
+                    "endOffset": 943
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 405,
+                        "endColumn": 50,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 948,
+                    "endColumn": 53,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 1318,
+                        "endColumn": 50,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 48,
+                    "endOffset": 1046
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 899,
+                        "endColumn": 45,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1051,
+                    "endColumn": 53,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 848,
+                        "endColumn": 50,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 282,
+                    "endOffset": 1383
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 568,
+                        "endColumn": 279,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1388,
+                    "endColumn": 59,
+                    "endOffset": 1443
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1591,
+                        "endColumn": 56,
+                        "endOffset": 1646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1448,
+                    "endColumn": 82,
+                    "endOffset": 1526
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1772,
+                        "endColumn": 79,
+                        "endOffset": 1850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1531,
+                    "endColumn": 68,
+                    "endOffset": 1595
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1706,
+                        "endColumn": 65,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1600,
+                    "endColumn": 95,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 1369,
+                        "endColumn": 92,
+                        "endOffset": 1460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 53,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 1062,
+                        "endColumn": 50,
+                        "endOffset": 1111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endColumn": 55,
+                    "endOffset": 1801
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 515,
+                        "endColumn": 52,
+                        "endOffset": 566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1806,
+                    "endColumn": 181,
+                    "endOffset": 1983
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 181,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1988,
+                    "endColumn": 45,
+                    "endOffset": 2029
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1548,
+                        "endColumn": 42,
+                        "endOffset": 1589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2034,
+                    "endColumn": 68,
+                    "endOffset": 2098
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1852,
+                        "endColumn": 65,
+                        "endOffset": 1916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2103,
+                    "endColumn": 119,
+                    "endOffset": 2218
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 945,
+                        "endColumn": 116,
+                        "endOffset": 1060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2223,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2509
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2514,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2669
+                },
+                "from": {
+                    "file": "D:\\MobileTheftSecurity1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
