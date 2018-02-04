@@ -10,7 +10,7 @@ import android.widget.Button;
 
 public class Home extends Activity {
 	Button b1,b2,b3,b4;
-
+    Button saby;
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 	    super.onCreate(savedInstanceState);
